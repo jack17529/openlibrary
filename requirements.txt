@@ -12,7 +12,7 @@ psycopg2==2.4.3
 pymarc==2.8.4
 pytest==2.2.0
 python-memcached==1.48
-PyYAML==3.10
+PyYAML==5.1
 simplejson==2.3.0
 Sphinx==1.1.2
 supervisor==3.0a12
