@@ -7,7 +7,7 @@ DBUtils==1.1
 Genshi==0.6
 gunicorn==0.13.4
 iptools==0.4.0
-lxml==2.3.2
+lxml==4.6.2
 psycopg2==2.4.3
 pymarc==2.8.4
 pytest==2.2.0
